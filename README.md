@@ -1,4 +1,4 @@
 algo_problems
 =============
 
-Random algorithmic problems on C++
+Implementation of Random algorithmic problems.
