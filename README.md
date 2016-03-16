@@ -10,3 +10,4 @@ marketing.cpp : Topcoder problem https://community.topcoder.com/stat?c=problem_s
 TODO :
 
 Dijkstra's Algorithm using Min Priority Queue
+Implementation of Min Priority Queue
